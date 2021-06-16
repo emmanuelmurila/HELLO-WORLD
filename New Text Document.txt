@@ -1,0 +1,740 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>RACHAEL NGINA</title>
+<meta name="description" content="The blog of Rachael Ngina Mboya">
+<meta name="author" content="Rachael Ngina Mboya">
+<meta name="keywords" content="blog, blog platform, self-hosted, self-hosted blogging, simple blog platform, minimalist blog, minimalist blogging platform, simple blog platform, easy blogging, uncluttered blogging, web developer blog, programmer blog platform, coder blog, programmer blogs">
+
+  <!-- Do a conditional here to test for the theme selected in settings.-->
+  <link rel="stylesheet" media="all" href="/assets/kaia_theme-cf06d42bab7d64ce0ea60fbeda50cbd17955345f2d43661634633e7f1e54ef47.css" />
+
+<script src="/assets/application-0f0d247659106d2bdd4078bac5028d5c03e250e894638a1a43f9cf547b5bcdf5.js"></script>
+
+    <script type="text/javascript" src="//use.typekit.net/ypa0coe.js"></script>
+    <link rel="shortcut icon" href="https://silvrback.s3.amazonaws.com/uploads/setting/favicon/2882/baa613b2029a5043079286d7a1e8fb25.ico">
+
+
+    <script type="text/javascript">
+
+        var _gaq = _gaq || [];
+        //handles all back end tracking, and silvrback home tracking
+
+        //pushes stats to user account, with either custom domain or subdomain. One or the other, not both. If custom domain is set, then silvrback subdomain tracking won't show for user.
+        _gaq.push(['user._setAccount', 'UA-56239627-1']);
+        _gaq.push(['user._setDomainName', 'scottsantens.com']);
+        _gaq.push(['user._setAllowLinker', true]);
+        _gaq.push(['user._trackPageview']);
+
+        //Send tracking data to 3rd profile. Tracks all front end user domain data (custom domains and subdomains)
+        _gaq.push(['custom._setAccount', 'UA-43290725-3']);
+        _gaq.push(['custom._setDomainName', 'scottsantens.com']);
+        _gaq.push(['custom._setAllowLinker', true]);
+        _gaq.push(['custom._trackPageview']);
+
+
+        (function () {
+            var ga = document.createElement('script');
+            ga.type = 'text/javascript';
+            ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(ga, s);
+        })();
+
+    </script>
+
+  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
+
+  <script type="text/javascript">var _sf_startpt = (new Date()).getTime()</script>
+  <script type="text/javascript">try {
+      Typekit.load();
+  } catch (e) {
+  }</script>
+  <script src="https://cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js"></script>
+  <!--[if lt IE 9]>
+  <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+  <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+  <![endif]-->
+  <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="MeqGYYIb0Ce6eX3HSvqFDBC+4zi06tfPzVvWTnVVahSZHG6Q5kbNpXPT+l1ETq4jD0u0LiTITQCxH3IFoWsBYA==" />
+      <style>
+        .theme_wrapper {
+          background-color: #485566;
+        }
+    </style>
+    <style>
+        .theme_wrapper {
+          background-color: #485566;
+        }
+
+        .shade {
+            opacity: 0.0;
+        }
+    </style>
+
+
+  <link rel="alternate" type="application/atom+xml" title="ATOM" href="/feed" />
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="/feed.rss" />
+  <!-- Facebook Pixel Code -->
+  <script>
+      !function(f,b,e,v,n,t,s)
+      {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+          n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+          if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+          n.queue=[];t=b.createElement(e);t.async=!0;
+          t.src=v;s=b.getElementsByTagName(e)[0];
+          s.parentNode.insertBefore(t,s)}(window,document,'script',
+          'https://connect.facebook.net/en_US/fbevents.js');
+      fbq('init', '601823960692369');
+      fbq('track', 'PageView');
+  </script>
+  <noscript>
+    <img height="1" width="1"
+         src="https://www.facebook.com/tr?id=601823960692369&ev=PageView
+&noscript=1"/>
+  </noscript>
+  <!-- End Facebook Pixel Code -->
+</head>
+<body class="home bio">
+<!-- conditional here for the theme body -->
+
+
+<article class="theme_wrapper">
+  
+<!--for user uploaded background pics-->
+<!--  <div class="banner_container animated" style="background-image: url('');"></div>-->
+  <div class="banner_container animated" style="background-image: url('https://silvrback.s3.amazonaws.com/uploads/411e53bd-5504-41b4-9180-ecf1f51e300b/6001735944_6989324a4d_b_large.jpg');"></div>
+  <div class="shade" style="display:block"></div>
+
+
+<div class="kaia_page">
+  <div class="big_article_header">
+    <div class="profile_header header_background_text">
+          <img class="profile_pic" src="https://silvrback.s3.amazonaws.com/uploads/9f0ef35a-757f-4dca-b890-4715f73a9b99/bio_190x190_large.jpg" /><h1 class='blog-title-bold'>Scott Santens</h1>
+          <div class="name_link edit_profile_message header_background_text tab_open" style="margin-top: -15px">
+            <p>
+              <p>Writer and full-time advocate of unconditional basic income (UBI); Citizen of Earth and New Orleans; Bachelor of Science in Psychology; Editor of Basic Income Today</p>
+
+              <ul class="top-social reset-padding">
+      <li>
+        <a href="https://twitter.com/scottsantens" target="_blank">
+          @scottsantens
+        </a>
+      </li>
+      <li>
+        <a href="https://facebook.com/scottsantens" target="_blank">
+          Facebook
+        </a>
+      </li>
+
+      <li>
+        <a href="https://www.linkedin.com/in/scottsantens/" target="_blank">
+          LinkedIn
+        </a>
+      </li>
+      <li>
+        <a href="https://instagram.com/scottsantens" target="_blank">
+          Instagram
+        </a>
+      </li>
+</ul>
+            </p>
+          </div>
+
+      <div class="profile_meta profile_menu_links header_background_text">
+        <ul>
+              <li
+    ><a href="/">Blog</a></li>
+<li
+><a href="/archive">Archive</a></li>
+        <li
+        class="current_link"
+        ><a href="/bio">Bio</a></li>
+    <li><a href="http://scottsantens.news" target="_blank">
+      Newsletter
+      </a></li>
+<li><a href="/feed">RSS</a></li>
+        </ul>
+      </div>
+      <div class="subscription_area">
+          <a class="animate_btn subscription_btn subscribe fa fa-plus" target="_blank" href="http://scottsantens.news"><span>Subscribe</span></a>
+        <div class="search-wrapper">
+  <form id="search-form" target="_blank" action="/search" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="jIz+MFJwwnDWpbvBE3Zdktr13oN/RxyyNFoaIeRNTnInNlDZmu6jbSzvSmhPxTQXKcWKvWQT9IroK4CR+fg1zg==" />
+      <div class="search-form">
+        <input type="text" name="term" id="term" class="search-input" placeholder="Search" />
+        <input type="hidden" name="user_id" id="user_id" value="2883" />
+        <span class="search-submit">
+         <i class="fa fa-search"></i>
+        </span>
+      </div>
+</form></div>
+<script type="text/javascript">
+    $(function () {
+        var searchInput = $('#search-form .search-input');
+        $('#search-form .search-submit').click(function (e) {
+            search(e, searchInput);
+        });
+
+        searchInput.keypress(function (e) {
+            if (e.keyCode == 13) {
+                search(e, $(this));
+            }
+        });
+
+        var search = function (event, input) {
+            event.preventDefault();
+            search_text = input.val();
+            if (search_text != '' && search_text.length >= 3) {
+                $('#search-form').submit();
+            }
+            else {
+                $('#search-form').find('.search-input').focus();
+            }
+        };
+
+        searchInput.focusin(function () {
+            $('.search-form').addClass('search-active');
+        }).focusout(function () {
+            $('.search-form').removeClass('search-active');
+        });
+    });
+</script>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="social">
+  <ul>
+      <li>
+        <a href="http://www.twitter.com/scottsantens" target="_blank" title="follow Me"><i class="fa fa-twitter"></i></a>
+      </li>
+
+      <li>
+        <a href="http://www.facebook.com/scottsantens" target="_blank" title="follow Me"><i class="fa fa-facebook"></i></a>
+      </li>
+
+      <li>
+        <a href="https://instagram.com/scottsantens" target="_blank" title="follow Me"><i class="fa fa-instagram"></i></a>
+      </li>
+
+
+
+
+      <li>
+        <a href="https://www.linkedin.com/in/scottsantens/" target="_blank" title="My LinkedIn Profile"><i class="fa fa-linkedin"></i></a>
+      </li>
+
+      <li>
+        <a href="javascript:void(0)" id="reader_to_user_email_link" class="reader_to_user_email_link" title="Get in Touch"><i class="fa fa-comments"></i></a>
+      </li>
+</ul>
+</div>
+
+<div id="reader_to_user_email" class="white-popup mfp-with-anim mfp-hide">
+  <div class="modal-body">
+    <form id="reader-to-user-mail-form" action="/reader_to_author_email" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="&#x2713;" />
+      <div class="share-form">
+        <div id="email_error"></div>
+        <div class="input-field">
+          <label> From </label>
+          <input type="email" name="from" id="from" placeholder="" />
+        </div>
+        <div class="input-field">
+          <label> Subject </label>
+          <input type="text" name="subject" id="subject" value="" class="text-like-input" />
+        </div>
+        <div class="input-field">
+          <textarea name="body" id="body" placeholder="Message..." class="input-full">
+</textarea>
+        </div>
+      </div>
+      <input type="hidden" name="author_mail" id="author_mail" value="scott@scottsantens.com" />
+      <div class="email-share-recaptcha">
+        <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+<div data-sitekey="6LdEaCMUAAAAAL32brHpjMORnXozCwtkaVioYqGz" class="g-recaptcha "></div>
+          <noscript>
+            <div>
+              <div style="width: 302px; height: 422px; position: relative;">
+                <div style="width: 302px; height: 422px; position: absolute;">
+                  <iframe
+                    src="https://www.google.com/recaptcha/api/fallback?k=6LdEaCMUAAAAAL32brHpjMORnXozCwtkaVioYqGz"
+                    scrolling="no" name="ReCAPTCHA"
+                    style="width: 302px; height: 422px; border-style: none; border: 0;">
+                  </iframe>
+                </div>
+              </div>
+              <div style="width: 300px; height: 60px; border-style: none;
+                bottom: 12px; left: 25px; margin: 0px; padding: 0px; right: 25px;
+                background: #f9f9f9; border: 1px solid #c1c1c1; border-radius: 3px;">
+                <textarea id="g-recaptcha-response" name="g-recaptcha-response"
+                  class="g-recaptcha-response"
+                  style="width: 250px; height: 40px; border: 1px solid #c1c1c1;
+                  margin: 10px 25px; padding: 0px; resize: none;">
+                </textarea>
+              </div>
+            </div>
+          </noscript>
+
+      </div>
+      <div class="share-action text-center">
+        <img class="loader" style="display: none;" src="/assets/ajax-loader-f6ecff617ec2ba7f559e6f535cad9b70a3f91120737535dab4d4548a6c83576c.gif" />
+        <input type="submit" name="commit" value="Send" class="publish_btn silvrback_btn email-share-submit" data-disable-with="Send" />
+      </div>
+</form>  </div>
+</div>
+
+<script type="text/javascript">
+    $(function () {
+
+        $('#reader_to_user_email').submit(function (e) {
+            e.preventDefault();
+            var form = $(this);
+            email = $('#from').val();
+            subject = $('#subject').val();
+            if (email == null || invalid_email(email)) {
+                var error_html = "<label style='width: 100% !important; color: red;'> Valid email address required.. </label>";
+                $('#email_error').addClass('input-field').html(error_html);
+                return false;
+            }
+
+            if (subject == null || subject.length < 1) {
+                var error_html = "<label style='width: 100% !important; color: red;'> Subject required.. </label>";
+                $('#email_error').addClass('input-field').html(error_html);
+                return false;
+            }
+
+            if (grecaptcha.getResponse() == "") {
+                var error_html = "<label style='width: 100% !important; color: red;'> Please check the recaptcha!!!.. </label>";
+                $('#email_error').addClass('input-field').html(error_html);
+                return false;
+            }
+
+            $.ajax({
+                url: form.attr('action'),
+                type: 'post',
+                data: form.serialize(),
+                beforeSend: function () {
+                    $('.loader').show();
+                },
+                success: function () {
+                    $('.loader').hide();
+                },
+                error: function () {
+                    var error_html = "<label style='width: 100% !important; color: red;'> There is an error. Try again... </label>";
+                    $('#email_error').addClass('input-field').html(error_html);
+                    $('.loader').hide();
+                }
+            })
+        });
+
+        $('#from').change(function () {
+            if (!invalid_email($(this).val())) {
+                $('#email_error').removeClass('input-field').html('')
+            }
+        });
+
+        function invalid_email(email) {
+            var re = /^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+            return re.test(email) ? false : true;
+        }
+    });
+</script>
+
+
+<script type="text/javascript">
+    $(function () {
+        $('.reader_to_user_email_link').click(function () {
+            open_modal('#reader_to_user_email');
+        });
+    });
+</script>
+
+  <div class="bio_body theme2_body">
+    <div class="kaia_page">
+      <div class="home_padding">
+        <div class="masonry_area">
+              <div class="author_section edit_author_section
+                ">
+                <h1>Written For</h1>
+
+                <p>
+                <ul>
+                              <li><a href="https://www.the-newshub.com/@2noame" target="_blank">The News Hub
+                                </a></li>
+                              <li><a href="http://basicincome.org" target="_blank">Basic Income Earth Network
+                                </a></li>
+                              <li><a href="http://www.cracked.com/members/2noame/" target="_blank">Cracked
+                                </a></li>
+                              <li><a href="https://www.prospectmagazine.co.uk/author/scott-santens" target="_blank">Prospect Magazine
+                                </a></li>
+                              <li><a href="https://techcrunch.com/contributor/scott-santens/" target="_blank">TechCrunch
+                                </a></li>
+                              <li><a href="https://www.politico.eu/author/scott-santens/" target="_blank">POLITICO
+                                </a></li>
+                              <li><a href="http://www.huffingtonpost.com/scott-santens/" target="_blank">The Huffington Post
+                                </a></li>
+                              <li><a href="https://goodmenproject.com/author/scott-santens/" target="_blank">The Good Men Project
+                                </a></li>
+                              <li><a href="http://www.bostonglobe.com/ideas/2016/02/24/robots-will-take-your-job/5lXtKomQ7uQBEzTJOXT7YO/story.html" target="_blank">The Boston Globe
+                                </a></li>
+                              <li><a href="https://futurism.com/authors/2noame" target="_blank">Futurism
+                                </a></li>
+                              <li><a href="https://www.weforum.org/agenda/authors/scott-santens" target="_blank">World Economic Forum
+                                </a></li>
+                </ul>
+                </p>
+              </div>
+              <div class="author_section edit_author_section
+                ">
+                <h1>Press</h1>
+
+                <p>
+                <ul>
+                              <li><a href="http://www.basicincome.org/news/2014/10/international-basic-income-advocate-founds-the-big-patreon-creator-pledge/" target="_blank">Basic Income Advocate Founds “The BIG Patreon Creator Pledge”
+                                <span class="bio_tag">- Featured in Basic Income News</span>
+                                </a></li>
+                              <li><a href="http://www.businessinsider.com/basic-income-experts-trump-america-2016-11" target="_blank">Basic income experts say Trump could be the radical change America needs
+                                <span class="bio_tag">- Interview with Business Insider</span>
+                                </a></li>
+                              <li><a href="http://www.forbes.com/sites/kaviguppta/2016/09/22/basic-income-might-be-the-answer-to-societys-productivity-crisis/#286b190c76ca" target="_blank">Basic Income Might Be The Answer To Society&#39;s Productivity Crisis
+                                <span class="bio_tag">- Interview with Forbes</span>
+                                </a></li>
+                              <li><a href="http://www.techinsider.io/basic-income-day-the-biggest-holiday-of-the-future-2016-4" target="_blank">This could be the most important holiday when robots take all our jobs
+                                <span class="bio_tag">- Interview with Tech Insider</span>
+                                </a></li>
+                              <li><a href="http://motherboard.vice.com/read/happy-basic-income-day" target="_blank">Happy Basic Income Day
+                                <span class="bio_tag">- Interview with Motherboard</span>
+                                </a></li>
+                              <li><a href="http://www.bloombergview.com/articles/2015-05-27/when-will-self-driving-trucks-destroy-america-" target="_blank">When Will Self-Driving Trucks Destroy America?
+                                <span class="bio_tag">- Referenced in Bloomberg View</span>
+                                </a></li>
+                              <li><a href="http://www.theatlantic.com/business/archive/2015/05/what-if-everybody-didnt-have-to-work-to-get-paid/393428/" target="_blank">What If Everybody Didn&#39;t Have to Work to Get Paid?
+                                <span class="bio_tag">- Featured in The Atlantic</span>
+                                </a></li>
+                              <li><a href="http://www.swissinfo.ch/directdemocracy/grassroots-greenbacks_basic-income-crowdfunder-sees-swiss-vote-s-potential-/42073818" target="_blank">Basic income crowdfunder sees Swiss vote’s potential
+                                <span class="bio_tag">- Interview with Swissinfo.ch</span>
+                                </a></li>
+                              <li><a href="http://www.windsorindependent.com/culture/basic-income-pilot-project-a-taste-of-things-to-come/" target="_blank">Basic income pilot project a taste of things to come
+                                <span class="bio_tag">- Interview with Windsor Independent</span>
+                                </a></li>
+                              <li><a href="http://fivethirtyeight.com/features/universal-basic-income/" target="_blank">What Would Happen If We Just Gave People Money?
+                                <span class="bio_tag">- Interview with FiveThirtyEight</span>
+                                </a></li>
+                              <li><a href="http://mic.com/articles/119744/the-future-threat-to-middle-america-no-one-is-talking-about" target="_blank">The Future Threat to Middle America No One Is Talking About
+                                <span class="bio_tag">- Interview with Mic</span>
+                                </a></li>
+                              <li><a href="http://gizmodo.com/self-driving-trucks-are-going-to-kill-jobs-and-not-jus-1705921308" target="_blank">Self-Driving Trucks Are Going to Kill Jobs, and Not Just for Drivers
+                                <span class="bio_tag">- Referenced in Gizmodo</span>
+                                </a></li>
+                              <li><a href="https://www.vice.com/read/the-cryptocurrency-based-schemes-that-would-pay-everyone-just-for-being-alive-456" target="_blank">The Cryptocurrency-Based Projects That Would Pay Everyone Just for Being Alive
+                                <span class="bio_tag">- Referenced in Vice</span>
+                                </a></li>
+                              <li><a href="http://harvardpolitics.com/world/automation/" target="_blank">Automated Inequality
+                                <span class="bio_tag">- Interview with Harvard Politics</span>
+                                </a></li>
+                              <li><a href="http://futurism.com/interview-scott-santens-talks-universal-basic-income-and-why-the-u-s-could-adopt-it-by-2035/" target="_blank">Scott Santens talks universal basic income, and why the U.S. could adopt it by 2035
+                                <span class="bio_tag">- Interview with Futurism</span>
+                                </a></li>
+                              <li>
+                                <a href="javascript:void(0)" style="color: #00a2de" class="show-category" data-cat-id="1289">[See
+                                  More]
+                                </a></li>
+                              <li class="extra_category_1289 category-hidden">
+                                <a href="http://boldbluemagazine.com/June-2014-pub1129-060714" target="_blank">Unconditional Basic Income - Discussion Whose Time Has Come?
+                                  <span class="bio_tag">- Interview with Bold Blue Magazine (pg 30-31)</span>
+                                  </a></li>
+                </ul>
+                </p>
+              </div>
+              <div class="author_section edit_author_section
+                ">
+                <h1>Books Authored or Coauthored</h1>
+
+                <p>
+                <ul>
+                              <li><a href="http://amzn.to/2cVMxFH" target="_blank">What Do We Do About Inequality?
+                                <span class="bio_tag">- Sept 5, 2016</span>
+                                </a></li>
+                              <li><a href="http://amzn.to/2gfgqm4" target="_blank">Surviving the Machine Age: Intelligent Technology and the Transformation of Human Work
+                                <span class="bio_tag">- Feb 5, 2017</span>
+                                </a></li>
+                </ul>
+                </p>
+              </div>
+              <div class="author_section edit_author_section
+                ">
+                <h1>Radio/TV/Podcast Appearances</h1>
+
+                <p>
+                <ul>
+                              <li><a href="http://www.scottsantens.com/media-appearances" target="_blank">Ongoing List of Appearances
+                                </a></li>
+                </ul>
+                </p>
+              </div>
+              <div class="author_section edit_author_section
+                ">
+                <h1>Support My Basic Income Advocacy</h1>
+
+                <p>
+                <ul>
+                              <li><a href="https://commerce.coinbase.com/checkout/f7c51c45-31b1-401c-8eaa-4289429b4009" target="_blank">Support my writing and activism via Cryptocurrency
+                                <span class="bio_tag">- Bitcoin, Bitcoin Cash, Ethereum, Litecoin</span>
+                                </a></li>
+                              <li>Make a donation via Manna
+                                <span class="bio_tag">- GbqQLcfLdUaaGJELh5AiXKedSgU8LMNkxT</span>
+                                </li>
+                              <li><a href="https://www.gofundme.com/2arwje4" target="_blank">Support my Basic Income Travel Fund on GoFundMe
+                                <span class="bio_tag">- one-time</span>
+                                </a></li>
+                              <li><a href="https://www.paypal.me/scottsantens" target="_blank">Make a donation via PayPal
+                                <span class="bio_tag">- one-time</span>
+                                </a></li>
+                              <li><a href="https://www.xrptipbot.com/u:scottsantens/n:twitter" target="_blank">Make a donation via XRP
+                                <span class="bio_tag">- XRPTipBot</span>
+                                </a></li>
+                              <li><a href="http://www.patreon.com/scottsantens" target="_blank">Support my writing and activism via Patreon
+                                <span class="bio_tag">- monthly</span>
+                                </a></li>
+                </ul>
+                </p>
+              </div>
+              <div class="author_section edit_author_section
+                ">
+                <h1>Follow Me On</h1>
+
+                <p>
+                <ul>
+                              <li><a href="https://twitter.com/scottsantens" target="_blank">Twitter
+                                <span class="bio_tag">- @scottsantens</span>
+                                </a></li>
+                              <li><a href="http://2noame.imgur.com/" target="_blank">Imgur
+                                <span class="bio_tag">- 2noame</span>
+                                </a></li>
+                              <li><a href="https://www.youtube.com/scottsantens" target="_blank">YouTube
+                                <span class="bio_tag">- ScottSantens</span>
+                                </a></li>
+                              <li><a href="https://steemit.com/@scottsantens" target="_blank">Steemit
+                                <span class="bio_tag">- @scottsantens</span>
+                                </a></li>
+                              <li><a href="https://www.twitch.tv/scottsantens" target="_blank">Twitch
+                                <span class="bio_tag">- ScottSantens</span>
+                                </a></li>
+                              <li><a href="https://medium.com/@2noame" target="_blank">Medium
+                                <span class="bio_tag">- @2noame</span>
+                                </a></li>
+                              <li><a href="https://disqus.com/home/user/2noame" target="_blank">Disqus
+                                <span class="bio_tag">- 2noame</span>
+                                </a></li>
+                              <li><a href="http://instagram.com/scottsantens" target="_blank">Instagram
+                                <span class="bio_tag">- @scottsantens</span>
+                                </a></li>
+                              <li><a href="http://scottsantens.tumblr.com/" target="_blank">Tumblr
+                                <span class="bio_tag">- scottsantens</span>
+                                </a></li>
+                              <li><a href="https://threadreaderapp.com/user/scottsantens" target="_blank">Thread Reader
+                                <span class="bio_tag">- Scott Santens</span>
+                                </a></li>
+                              <li><a href="http://www.reddit.com/r/scottsantens" target="_blank">Reddit
+                                <span class="bio_tag">- /r/ScottSantens</span>
+                                </a></li>
+                              <li><a href="https://www.facebook.com/scottsantens" target="_blank">Facebook
+                                <span class="bio_tag">- @scottsantens</span>
+                                </a></li>
+                              <li><a href="https://www.linkedin.com/in/scottsantens/" target="_blank">LinkedIn
+                                <span class="bio_tag">- Scott Santens</span>
+                                </a></li>
+                              <li><a href="http://scottsantens.news" target="_blank">Email
+                                <span class="bio_tag">- scottsantens.news</span>
+                                </a></li>
+                </ul>
+                </p>
+              </div>
+              <div class="author_section edit_author_section
+                ">
+                <h1>Featured Articles</h1>
+
+                <p>
+                <ul>
+                              <li><a href="https://techcrunch.com/2016/09/09/the-progressive-case-for-replacing-the-welfare-state-with-basic-income/" target="_blank">The progressive case for replacing the welfare state with basic income
+                                <span class="bio_tag">- TechCrunch</span>
+                                </a></li>
+                              <li><a href="http://www.bostonglobe.com/ideas/2016/02/24/robots-will-take-your-job/5lXtKomQ7uQBEzTJOXT7YO/story.html" target="_blank">Robots will take your job
+                                <span class="bio_tag">- Boston Globe</span>
+                                </a></li>
+                              <li><a href="http://www.vox.com/first-person/2016/11/14/13513066/universal-basic-income-crowdfund" target="_blank">What if you got $1,000 a month, just for being alive? I decided to find out.
+                                <span class="bio_tag">- Vox</span>
+                                </a></li>
+                              <li><a href="http://www.politico.eu/article/unconditional-basic-income-news-why-switzerlands-basic-income-idea-is-not-crazy-vote-referendum/" target="_blank">Why Switzerland’s basic income idea is not crazy
+                                <span class="bio_tag">- POLITICO</span>
+                                </a></li>
+                              <li><a href="https://www.weforum.org/agenda/2017/01/why-we-should-all-have-a-basic-income" target="_blank">Why we should all have a basic income
+                                <span class="bio_tag">- World Economic Forum</span>
+                                </a></li>
+                              <li><a href="https://www.prospectmagazine.co.uk/other/what-people-get-most-wrong-about-unconditional-basic-income" target="_blank">What people get most wrong about unconditional basic income
+                                <span class="bio_tag">- Prospect</span>
+                                </a></li>
+                              <li><a href="https://www.2025ad.com/in-the-news/blog/driverless-trucks-job-killer/driverless-trucks-job-killer-pro/" target="_blank">Will automated trucks be a job killer? – Yes, they will.
+                                <span class="bio_tag">- 2025 AD</span>
+                                </a></li>
+                              <li><a href="http://www.huffingtonpost.com/scott-santens/trickledown-economics-mus_b_8527636.html" target="_blank">Trickle-Down Economics Must Die. Long Live Grow-Up Economics
+                                <span class="bio_tag">- The Huffington Post</span>
+                                </a></li>
+                </ul>
+                </p>
+              </div>
+              <div class="author_section edit_author_section
+                ">
+                <h1>Research Basic Income For Yourself</h1>
+
+                <p>
+                <ul>
+                              <li><a href="https://medium.com/basic-income/the-big-library-books-about-basic-income-b9763071b987" target="_blank">Big List of Basic Income Books
+                                <span class="bio_tag">- Amazon</span>
+                                </a></li>
+                              <li><a href="http://www.basicincome.org/bien/papers.html" target="_blank">Papers and Resources
+                                <span class="bio_tag">- BIEN</span>
+                                </a></li>
+                              <li><a href="http://www.reddit.com/r/basicincome/wiki/index" target="_blank">Basic Income FAQ
+                                <span class="bio_tag">- Reddit</span>
+                                </a></li>
+                              <li><a href="http://ubie.org/brief-history-basic-income-ideas/" target="_blank">A Brief History of Basic Income Ideas
+                                <span class="bio_tag">- UBIE</span>
+                                </a></li>
+                </ul>
+                </p>
+              </div>
+              <div class="author_section edit_author_section
+                ">
+                <h1>Where I&#39;ve Worked</h1>
+
+                <p>
+                <ul>
+                              <li>Telect, Inc.
+                                <span class="bio_tag">- Technical Support Specialist</span>
+                                </li>
+                              <li>Self-employed since 1997
+                                <span class="bio_tag">- Website and Social Media Management</span>
+                                </li>
+                              <li><a href="http://depts.washington.edu/hints/people.shtml" target="_blank">Human Interaction With Nature and Technological Systems Lab (The HINTS Lab)
+                                <span class="bio_tag">- Research Assistant</span>
+                                </a></li>
+                              <li>Packard Bell
+                                <span class="bio_tag">- Technical Support Expert</span>
+                                </li>
+                </ul>
+                </p>
+              </div>
+              <div class="author_section edit_author_section
+                ">
+                <h1>Education</h1>
+
+                <p>
+                <ul>
+                              <li><a href="http://washington.edu" target="_blank">Bachelor of Science in Psychology. University of Washington
+                                </a></li>
+                </ul>
+                </p>
+              </div>
+        </div>
+        
+      </div>
+    </div>
+  </div>
+  <div style="position:relative; z-index:100">
+      <div class="kaia_page kaia_footer_section">
+        <div class="align_center read_next">
+          <h2 class="read_next_btn"></h2>
+        </div>
+
+        <div class="bottom_menu_links align_center header_background_text">
+          <ul>
+                <li
+    ><a href="/">Blog</a></li>
+<li
+><a href="/archive">Archive</a></li>
+        <li
+        class="current_link"
+        ><a href="/bio">Bio</a></li>
+    <li><a href="http://scottsantens.news" target="_blank">
+      Newsletter
+      </a></li>
+<li><a href="/feed">RSS</a></li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="kaia_footer">
+        <div class="kaia_page">
+          <div class="bottom_footer_area">
+            <p class="align_center header_background_text">
+              You can also find Scott Santens on <a href='https://twitter.com/scottsantens' class='personal_social_links header_background_text'>Twitter</a>, <a href='https://facebook.com/scottsantens' class='personal_social_links header_background_text'>Facebook</a>, <a href='https://www.linkedin.com/in/scottsantens/' class='personal_social_links header_background_text'>LinkedIn</a> and <a href='https://instagram.com/scottsantens' class='personal_social_links header_background_text'>Instagram</a>.
+                  Get in touch by <a href='javascript:void(0)' id='reader_to_user_email_link' class='personal_social_links reader_to_user_email_link'>Email</a>.
+
+            <div class="footer-copy-right">
+              <span class="">
+                &copy; 2021 <a href="http://scottsantens.com"> Scott Santens</a>
+              </span>
+              <br/><br/>
+                      <a title="Proudly Published With Silvrback Blog" href="https://www.silvrback.com"><img style="width:40px; margin-top:20px;" src="/assets/gorilla-white-94520d1798dddcc0033e3be804ccee50745f2898955cf7fca49b6db98608ad04.svg" /></a>
+            </div>
+            </p>
+          </div>
+        </div>
+      </div>
+</div>
+</article>
+
+<script type="text/javascript">
+    $(function () {
+        var container = document.querySelector('.masonry_area');
+        setTimeout(function () {
+            var msnry = new Masonry(container, {
+                // options
+                columnWidth: container.querySelector('.author_section')
+            });
+        }, 500);
+        $('.all_external_links').find('a[href^="http://"], a[href^="https://"]').attr('target', '_blank');
+
+
+        $('.show-category').click(function () {
+
+            var cat_id = ($(this).attr("data-cat-id"));
+            $(".extra_category_" + cat_id).removeClass('category-hidden');
+            $(this).addClass('category-hidden')
+            var container = document.querySelector('.masonry_area');
+            setTimeout(function () {
+                var msnry = new Masonry(container, {
+                    // options
+                    columnWidth: container.querySelector('.author_section')
+                });
+            }, 200);
+        });
+    });
+</script>
+
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $(".tab_open a").attr("target", "_blank");
+    })
+</script>
+
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    extensions: ["tex2jax.js"],
+    jax: ["input/TeX", "output/HTML-CSS"],
+    tex2jax: {
+      inlineMath: [["\\(","\\)"]],
+      displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
+      processEscapes: true
+    },
+    "HTML-CSS": { availableFonts: ["TeX"] }
+  });
+</script>
+</body>
+</html>
